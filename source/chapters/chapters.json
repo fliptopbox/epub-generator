@@ -1,0 +1,8 @@
+{
+  "tags": "chapter",
+  "folder": "chapter",
+  "layout": "xml.njk",
+  "cssPath": "../css/stylesheet.css",
+  "cssBodyClassname": "chapter",
+  "permalink": "OPS/chapters/{{page.fileSlug}}.xhtml"
+}

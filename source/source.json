@@ -1,0 +1,37 @@
+{
+  "title": "The Wonderful Wizard of Oz",
+  "cover": "images/cover-image.jpg",
+  "summary": "When a tornado rips through Kansas, Dorothy  and her dog, Toto, are whisked away in their house to the magical land of Oz. They follow the Yellow Brick Road toward the Emerald City to meet the Wizard, and en route they meet a Scarecrow  that needs a brain, a Tin Man  missing a heart, and a Cowardly Lion  who wants courage.",
+  "cssPath": "css/stylesheet.css",
+  "outputDirectory": "output",
+  "identifier": "http://www.gutenberg.org/55",
+  "language": "en",
+  "dateCreated": "1993-02-01",
+  "dateModified": "2022-04-01T15:30:00Z",
+  "creator": "L. Frank Baum",
+  "contributor": [
+    "Gale, Dorothy",
+    "Cowardly Lion",
+    "Cyclones",
+    "Scarecrow",
+    "Toto",
+    "Witches",
+    "Wizard of Oz",
+    "Tin Woodman "
+  ],
+  "subject": [
+    "Oz (Imaginary place)",
+    "Fantasy literature",
+    "Courage",
+    "Dreams",
+    "Cyclones"
+  ],
+  "publisher": "Project Gutenberg",
+  "rights": "Public domain in the USA",
+  "accessMode": ["textual", "visual"],
+  "accessibilityFeature": ["tableOfContents", "alternativeText"],
+  "accessModeSufficient": ["textual,visual", "textual"],
+  "accessibilityHazard": "none",
+  "accessibilitySummary": "This EPUB Publication meets the requirements of the EPUB Accessibility specification with conformance to WCAG 2.0 Level AA. The publication is screen reader friendly.",
+  "dcTermsConformsTo": "http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package 
+	xmlns="http://www.idpf.org/2007/opf" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/" 
+	version="3.0" 
+	xml:lang="en"
+	unique-identifier="pub-identifier">
+
+<metadata>
+<dc:identifier id="pub-identifier">http://www.gutenberg.org/55</dc:identifier>
+<dc:title id="pub-title">The Wonderful Wizard of Oz</dc:title>
+<dc:language id="pub-language">en</dc:language>
+<dc:date>1993-02-01T00:00:00Z</dc:date>
+<dc:creator id="pub-creator12">L. Frank Baum</dc:creator>
+<dc:contributor>Gale, Dorothy</dc:contributor>
+<dc:contributor>Cowardly Lion</dc:contributor>
+<dc:contributor>Cyclones</dc:contributor>
+<dc:contributor>Scarecrow</dc:contributor>
+<dc:contributor>Toto</dc:contributor>
+<dc:contributor>Witches</dc:contributor>
+<dc:contributor>Wizard of Oz</dc:contributor>
+<dc:contributor>Tin Woodman </dc:contributor>
+<dc:subject>Oz (Imaginary place)</dc:subject>
+<dc:subject>Fantasy literature</dc:subject>
+<dc:subject>Courage</dc:subject>
+<dc:subject>Dreams</dc:subject>
+<dc:subject>Cyclones</dc:subject>
+<dc:publisher>Project Gutenberg</dc:publisher>
+<dc:rights>Public domain in the USA</dc:rights>
+<meta property="dcterms:modified">2022-04-01T15:30:00Z</meta>
+<meta property="dcterms:created">1993-02-01T00:00:00Z</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilitySummary">This EPUB Publication meets the requirements of the EPUB Accessibility specification with conformance to WCAG 2.0 Level AA. The publication is screen reader friendly.</meta>
+<link rel="dcterms:conformsTo" href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa"/>
+</metadata>
+
+<manifest>
+<item media-type="application/xhtml+xml" id="id-chapters-chapter-0-intro"  href="chapters/00-chapter-0-intro.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters-chapter-intro"  href="chapters/00-chapter-intro.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters1-chapter-1"  href="chapters/01-chapter-1.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters2-chapter-2"  href="chapters/02-chapter-2.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters3-chapter-3"  href="chapters/03-chapter-3.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters4-chapter-4"  href="chapters/04-chapter-4.xhtml" />
+<item media-type="application/xhtml+xml" id="id-chapters5-chapter-5"  href="chapters/05-chapter-5.xhtml" />
+<item media-type="application/xhtml+xml" id="cover"  href="cover.xhtml" />
+<item media-type="text/css" id="id-cssbootloader"  href="css/bootloader.css" />
+<item media-type="text/css" id="id-cssstylesheet"  href="css/stylesheet.css" />
+<item media-type="text/css" id="id-csstitlepage"  href="css/titlepage.css" />
+<item media-type="application/vnd.ms-opentype" id="id-fontsstixgeneral"  href="fonts/STIXGeneral.otf" />
+<item media-type="application/vnd.ms-opentype" id="id-fontsstixgeneralbol"  href="fonts/STIXGeneralBol.otf" />
+<item media-type="application/vnd.ms-opentype" id="id-fontsstixgeneralbolita"  href="fonts/STIXGeneralBolIta.otf" />
+<item media-type="application/vnd.ms-opentype" id="id-fontsstixgeneralitalic"  href="fonts/STIXGeneralItalic.otf" />
+<item media-type="image/jpeg" id="id-images978316000000"  href="images/9780316000000.jpg" />
+<item media-type="image/jpeg" id="id-imagesmoby-dickfe_title_page"  href="images/Moby-Dick_FE_title_page.jpg" />
+<item media-type="image/jpeg" id="id-imageschapter-1-toto"  href="images/chapter-1-toto.jpg" />
+<item media-type="image/jpeg" id="id-imageschapter-1"  href="images/chapter-1.jpg" />
+<item media-type="image/jpeg" id="cover-image" properties="cover-image" href="images/cover-image.jpg" />
+<item media-type="image/jpeg" id="id-imageswitch-of-the-north"  href="images/witch-of-the-north.jpg" />
+<item media-type="application/xhtml+xml" id="id-titlepage"  href="titlepage.xhtml" />
+<item media-type="application/xhtml+xml" id="toc" properties="nav" href="toc.xhtml" />
+</manifest>
+
+<spine>
+<itemref idref="id-chapters-chapter-0-intro" linear="yes" />
+<itemref idref="id-chapters-chapter-intro" linear="yes" />
+<itemref idref="id-chapters1-chapter-1" linear="yes" />
+<itemref idref="id-chapters2-chapter-2" linear="yes" />
+<itemref idref="id-chapters3-chapter-3" linear="yes" />
+<itemref idref="id-chapters4-chapter-4" linear="yes" />
+<itemref idref="id-chapters5-chapter-5" linear="yes" />
+<itemref idref="cover" linear="no" />
+<itemref idref="id-titlepage" linear="yes" />
+<itemref idref="toc" linear="no" />
+</spine>
+
+</package>
