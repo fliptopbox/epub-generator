@@ -33,6 +33,6 @@ permalink: "OPS/package.opf"
 <link rel="dcterms:conformsTo" href="{{dcTermsConformsTo}}"/>
 </metadata>
 
+<!-- do not delete -->
 <manifest />
-
 <spine />
