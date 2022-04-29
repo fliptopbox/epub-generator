@@ -2,11 +2,9 @@
 
 You can generate your very own EPUB book with this little utility, which lets you author your book using markdown syntax, then when you have finished adding images and CSS styling to your book, you can validate and generate an epub archive ready to upload to your ebook device or send to your online book seller.
 
-I mean, yes you could use a GUI and have very easy experience converting text from your word processor document, and be done in literally minutes ... or ... you could enjoy a world full of pain, and hack away for hours on a homemade utility.
+I mean, yes you could use a GUI and have very easy experience converting your word processor document in literally minutes ... or ... you could enjoy a world full of pain, I guess that since you are reading this sentence you are a pain person, like me. You are welcome.
 
-I guess that since you are reading this sentence you are a pain person, like me. You are welcome. I hope you waste as many hours of you life as I have making this.
-
-And if you labours become intolerable then you can alway walk the broad path with [Calibre](https://calibre-ebook.com/).
+Just a reminder you can always walk the broad path with [Calibre](https://calibre-ebook.com/).
 
 ---
 
